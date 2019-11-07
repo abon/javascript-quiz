@@ -1,7 +1,7 @@
 # Javascript Quiz App
 
 ## Demo
-👉 [Demo page](https://https://acejavascript.netlify.com/) 
+👉 [Click here](https://https://acejavascript.netlify.com/) to check how much JS you have!
 
 ## Contributing
 I invite you to contribute to this repository! You can do so by opening an issue, or by directly contributing questions.
